@@ -1,0 +1,221 @@
+{
+  "brand": {
+    "mark": "AGK",
+    "tagline": "Neo-brutal portfolio"
+  },
+  "person": {
+    "name": "Aritza Ganendra Kusuma",
+    "role": "Web Developer & UI/UX Designer",
+    "headline": "Building modern web experiences with bold, practical design.",
+    "bio": "I build fast, accessible interfaces and reliable backends. I enjoy shipping end-to-end features: UI, APIs, and the little details that make products feel great.",
+    "location": "Semarang, Indonesia",
+    "availableForWork": true
+  },
+  "links": {
+    "cv": "/cv.pdf",
+    "email": "mailto:hello@example.com",
+    "linkedin": "https://linkedin.com/in/your-handle",
+    "github": "https://github.com/your-handle",
+    "instagram": "https://instagram.com/your-handle"
+  },
+  "about": {
+    "education": "Teknik Informatika — UDINUS",
+    "gpa": "3.93 / 4.00"
+  },
+  "skills": {
+    "marquee": [
+      "React",
+      "Next.js",
+      "Inertia.js",
+      "UI/UX Design",
+      "Figma",
+      "Tailwind CSS",
+      "MySQL",
+      "Laravel"
+    ],
+    "stack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Vue",
+      "Laravel",
+      "Express",
+      "Tailwind CSS",
+      "MySQL",
+      "Supabase",
+      "Git",
+      "Figma"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Paperless Hospital",
+      "role": "Junior Frontend Developer",
+      "summary": "Built UI for hospital management modules and dashboards.",
+      "period": "2024",
+      "accent": "sun"
+    },
+    {
+      "company": "Freelance",
+      "role": "Developer & Designer",
+      "summary": "Designed and developed websites for clients, from concept to deployment.",
+      "period": "2023–2025",
+      "accent": "mint"
+    },
+    {
+      "company": "UDINUS Lab",
+      "role": "Lab Assistant",
+      "summary": "Helped students with programming labs and practical assignments.",
+      "period": "2023–2024",
+      "accent": "sky"
+    },
+    {
+      "company": "Tokcom",
+      "role": "Data Management Intern",
+      "summary": "Data processing and analysis support for internal reporting.",
+      "period": "2023",
+      "accent": "peach"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Website Profile Prodi D3 TI UDINUS",
+      "category": "Website",
+      "description": "Mengembangkan website profil program studi dengan desain modern dan responsive. Website ini menampilkan informasi lengkap tentang program studi, kurikulum, fasilitas, dan prestasi mahasiswa.",
+      "tags": ["Laravel", "Tailwind CSS", "MySQL", "JQuery"],
+      "href": "https://example.com",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2",
+      "accent": "mint",
+      "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment.",
+      "impact": [
+        "Meningkatkan aksesibilitas informasi bagi calon mahasiswa",
+        "Desain responsive yang melayani 500+ pengunjung bulanan",
+        "Integrasi CMS untuk kemudahan pengelolaan konten"
+      ],
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2","https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2"]
+    },
+    {
+      "title": "Dashboard Internal - Paperless Hospital",
+      "category": "Website",
+      "description": "Sistem Terintegrasi perusahaan untuk mengelola dan pendataan (Klien, Produk, Keuangan, Revenue, Status Service, dll). Dashboard ini menyediakan real-time monitoring dan laporan komprehensif untuk manajemen.",
+      "tags": ["React", "Laravel", "MySQL", "TailwindCSS", "REST API"],
+      "href": "https://example.com",
+      "image": "/images/project_hospital_dashboard.png",
+      "accent": "sky",
+      "role": "Junior Frontend Developer — Membangun modul UI dashboard dan komponen data visualisasi.",
+      "impact": [
+        "Mengotomasi proses pendataan yang sebelumnya manual",
+        "Real-time monitoring status service untuk 50+ klien",
+        "Mengurangi waktu reporting dari 2 jam menjadi 10 menit"
+      ],
+      "images": ["/images/project_hospital_dashboard.png"]
+    },
+    {
+      "title": "Student Monitoring System",
+      "category": "Mobile",
+      "description": "Monitoring and reporting app for academic progress. The system tracks student attendance, grades, and academic milestones with automated notifications to parents and faculty.",
+      "tags": ["Vue", "Tailwind CSS"],
+      "href": "https://example.com",
+      "image": "/images/project_student_monitoring.png",
+      "accent": "peach",
+      "role": "Frontend Developer — Built the mobile-first UI and data visualization components.",
+      "impact": [
+        "Streamlined academic progress tracking for 200+ students",
+        "Automated parent notification system",
+        "Real-time attendance and grade monitoring"
+      ],
+      "images": ["/images/project_student_monitoring.png"]
+    },
+    {
+      "title": "Sky Access Network",
+      "category": "UI/UX",
+      "description": "Landing page and branding exploration for an internet service provider. Complete design system including logo, color palette, typography, and responsive web layouts.",
+      "tags": ["Figma", "UI/UX"],
+      "href": "https://example.com",
+      "image": "/images/project_sky_access.png",
+      "accent": "sun",
+      "role": "UI/UX Designer — Created the full brand identity and landing page design from scratch.",
+      "impact": [
+        "Delivered complete brand identity system",
+        "Designed responsive landing page with 95+ Lighthouse score",
+        "Created reusable component library in Figma"
+      ],
+      "images": ["/images/project_sky_access.png"]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Himpunan Mahasiswa D3 Teknik Informatika — UDINUS",
+      "location": "Semarang, Jawa Tengah",
+      "period": "August 2022",
+      "accent": "sun",
+      "items": [
+        {
+          "title": "Committee Member — Seminar Inside 2022",
+          "summary": "Organized onboarding activities and student orientation programs.",
+          "year": "2022"
+        },
+        {
+          "title": "Workshop Lead — Laravel Programming 2022",
+          "summary": "Prepared learning materials and guided participants through hands-on sessions.",
+          "year": "2022"
+        },
+        {
+          "title": "Speaker — Figma Pair 2024 Goes to Campus",
+          "summary": "Presented design workflow tips and collaboration practices.",
+          "year": "2024"
+        },
+        {
+          "title": "Coordinator — Mobile VSCO Competition 2024",
+          "summary": "Coordinated event execution and cross-team communication.",
+          "year": "2024"
+        }
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "MTCNA (MikroTik Certified Network Associate)",
+      "issuer": "MikroTik",
+      "year": "2023",
+      "accent": "paper"
+    },
+    {
+      "title": "Management Skills Training Certificate",
+      "issuer": "Universitas Dian Nuswantoro",
+      "year": "2024",
+      "accent": "mint"
+    },
+    {
+      "title": "Junior Web Developer Certificate",
+      "issuer": "Code Xclusive",
+      "year": "2022",
+      "accent": "sky"
+    },
+    {
+      "title": "Organizational Candidate Training Certificate",
+      "issuer": "Universitas Dian Nuswantoro",
+      "year": "2024",
+      "accent": "sun"
+    },
+    {
+      "title": "Junior Mobile Programmer Certificate",
+      "issuer": "Lembaga Sertifikasi Profesi UDINUS",
+      "year": "2024",
+      "accent": "paper"
+    },
+    {
+      "title": "TOEFL — Silver (467)",
+      "issuer": "Lembaga Bahasa UDINUS",
+      "year": "2023",
+      "accent": "sun"
+    }
+  ],
+  "cta": {
+    "title": "Got a project? Let's build something together.",
+    "subtitle": "Open to freelance, collaborations, or full-time roles. Let's talk about what you're building and how I can help."
+  }
+}
