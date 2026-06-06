@@ -87,7 +87,7 @@ export function ImageCarousel({ images, alt = "Project image", className }: Imag
               <img
                 src={src}
                 alt={`${alt} — ${i + 1}`}
-                className="w-full h-full object-cover"
+                className="aspect-video"
                 loading={i === 0 ? "eager" : "lazy"}
                 draggable={false}
               />

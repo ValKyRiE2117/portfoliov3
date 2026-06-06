@@ -73,8 +73,7 @@ export function ProjectsSection({ projects }: { projects: ProjectDetail[] }) {
                 <img
                   src={p.image}
                   alt={p.title}
-                  className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  loading="lazy"
+                  className="transition-transform duration-300 group-hover:scale-105 aspect-video"
                 />
                 <span
                   className={cx(

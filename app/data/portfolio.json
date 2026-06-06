@@ -55,18 +55,18 @@
       "company": "Paperless Hospital",
       "role": "Junior Frontend Developer",
       "summary": "Built UI for hospital management modules and dashboards.",
-      "period": "2024",
+      "period": "2025-2026",
       "accent": "sun"
     },
     {
       "company": "Freelance",
       "role": "Developer & Designer",
       "summary": "Designed and developed websites for clients, from concept to deployment.",
-      "period": "2023–2025",
+      "period": "2024–Current",
       "accent": "mint"
     },
     {
-      "company": "UDINUS Lab",
+      "company": "UDINUS",
       "role": "Lab Assistant",
       "summary": "Helped students with programming labs and practical assignments.",
       "period": "2023–2024",
@@ -85,15 +85,14 @@
       "title": "Website Profile Prodi D3 TI UDINUS",
       "category": "Website",
       "description": "Mengembangkan website profil program studi dengan desain modern dan responsive. Website ini menampilkan informasi lengkap tentang program studi, kurikulum, fasilitas, dan prestasi mahasiswa.",
-      "tags": ["Laravel", "Tailwind CSS", "MySQL", "JQuery"],
+      "tags": ["Laravel", "Tailwind CSS", "MySQL", "Filament"],
       "href": "https://example.com",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2",
       "accent": "mint",
       "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment.",
       "impact": [
         "Meningkatkan aksesibilitas informasi bagi calon mahasiswa",
-        "Desain responsive yang melayani 500+ pengunjung bulanan",
-        "Integrasi CMS untuk kemudahan pengelolaan konten"
+        "Memberikan branding prodi yang lebih jelas dan lengkap"
       ],
       "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2","https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2"]
     },
@@ -103,15 +102,15 @@
       "description": "Sistem Terintegrasi perusahaan untuk mengelola dan pendataan (Klien, Produk, Keuangan, Revenue, Status Service, dll). Dashboard ini menyediakan real-time monitoring dan laporan komprehensif untuk manajemen.",
       "tags": ["React", "Laravel", "MySQL", "TailwindCSS", "REST API"],
       "href": "https://example.com",
-      "image": "/images/project_hospital_dashboard.png",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn4VGoJwZxoBnFWEzJXs9MtKaRAh2kw7CfLx6u",
       "accent": "sky",
-      "role": "Junior Frontend Developer — Membangun modul UI dashboard dan komponen data visualisasi.",
+      "role": "Full-Stack Developer & Lead team project — Merancang dan mengembangkan keseluruhan sistem serta memimpin tim proyek untuk mencapai tujuan yang telah ditetapkan.",
       "impact": [
-        "Mengotomasi proses pendataan yang sebelumnya manual",
+        "Me",
         "Real-time monitoring status service untuk 50+ klien",
         "Mengurangi waktu reporting dari 2 jam menjadi 10 menit"
       ],
-      "images": ["/images/project_hospital_dashboard.png"]
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn4VGoJwZxoBnFWEzJXs9MtKaRAh2kw7CfLx6u"]
     },
     {
       "title": "Student Monitoring System",
@@ -119,7 +118,7 @@
       "description": "Monitoring and reporting app for academic progress. The system tracks student attendance, grades, and academic milestones with automated notifications to parents and faculty.",
       "tags": ["Vue", "Tailwind CSS"],
       "href": "https://example.com",
-      "image": "/images/project_student_monitoring.png",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnLsiPSwGaSHkFRN7itYZlvhjuEDoXrUIWGbsd",
       "accent": "peach",
       "role": "Frontend Developer — Built the mobile-first UI and data visualization components.",
       "impact": [
@@ -127,7 +126,7 @@
         "Automated parent notification system",
         "Real-time attendance and grade monitoring"
       ],
-      "images": ["/images/project_student_monitoring.png"]
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnLsiPSwGaSHkFRN7itYZlvhjuEDoXrUIWGbsd"]
     },
     {
       "title": "Sky Access Network",

@@ -40,7 +40,6 @@ export default function Home() {
     { href: "#about", label: "About" },
     { href: "#skills", label: "Skills" },
     { href: "#portfolio", label: "Portfolio" },
-    { href: "#org", label: "Org" },
     { href: "#certificates", label: "Certificate" },
     { href: "#contact", label: "Contact" },
   ];
@@ -175,10 +174,10 @@ export default function Home() {
 
         <section className="border-b-3 border-black/90 py-14">
           <Container>
-            <SectionHeader kicker="01 — About" title="About Me" id="about" />
+            <SectionHeader kicker="01 — About" title="Experience" id="about" />
 
             <div className="mt-8 grid grid-cols-1 gap-6 lg:grid-cols-1">
-              <div className="grid grid-cols-3 gap-5 te">
+              {/* <div className="grid grid-cols-3 gap-5 te">
                 <NeoCard accent="sky">
                   <p className="text-xs font-mono font-black uppercase tracking-widest opacity-75">
                     Location
@@ -199,7 +198,7 @@ export default function Home() {
                   </p>
                   <p className="mt-2 text-sm lg:text-lg font-black">{portfolio.about.gpa}</p>
                 </NeoCard>
-              </div>
+              </div> */}
 
               <ExperienceTimeline items={portfolio.experience} />
             </div>
@@ -233,7 +232,7 @@ export default function Home() {
           </Container>
         </section>
 
-        <section className="border-b-3 border-black/90 py-14">
+        {/* <section className="border-b-3 border-black/90 py-14">
           <Container>
             <SectionHeader
               kicker="04 — Community"
@@ -280,7 +279,7 @@ export default function Home() {
               ))}
             </div>
           </Container>
-        </section>
+        </section> */}
 
         <section className="border-b-3 border-black/90 py-14">
           <Container>

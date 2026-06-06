@@ -65,17 +65,17 @@ export function NeoDialog({ project }: { project: ProjectDetail }) {
         {/* Content Container */}
         <DialogPrimitive.Content
           className={cx(
-            /* Positioning: centered, responsive sizing */
+            
             "fixed left-1/2 top-1/2 z-50 -translate-x-1/2 -translate-y-1/2",
-            /* Sizing — responsive: near-full on mobile, constrained on desktop */
+            
             "w-[calc(100vw-24px)] max-w-2xl",
             "max-h-[calc(100dvh-32px)] sm:max-h-[90dvh]",
-            /* Neo-brutal style */
+            
             "neo-border neo-shadow bg-[var(--neo-paper)]",
-            /* Animation */
+            
             "data-[state=open]:animate-[neo-content-in_250ms_ease-out]",
             "data-[state=closed]:animate-[neo-content-out_150ms_ease-in]",
-            /* Layout */
+            
             "flex flex-col overflow-hidden",
           )}
         >
