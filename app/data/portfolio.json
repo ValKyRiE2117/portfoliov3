@@ -184,6 +184,36 @@
         "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnM1I206tm8cWFMRovOzSdUDlisa2Q43PBxgnq",
         "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn1t2vf3PQ64eO7lAbFsHx20PjBvcp8XkCaSfg"
       ]
+    },
+    {
+      "title": "TravelHub - Personal Project",
+      "category": "Website",
+      "description": "Website TravelHub untuk mempermudah wisatawan dalam menemukan destinasi wisata dan mempermudah dalam melakukan reservasi",
+      "tags": ["Nuxt JS","Nuxt UI","Tailwind CSS","REST API"],
+      "href": "https://github.com/ValKyRiE2117/nuxt-project",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnTLUX1fQzGRjKtyb1hp0wquLkP74JEivXNgmo",
+      "accent": "peach",
+      "role": "Frontend Developer — Mendesain tampilan user interface dan mengembangkan sistem website",
+      "impact": [
+        
+      ],
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnTLUX1fQzGRjKtyb1hp0wquLkP74JEivXNgmo"]
+    },
+    {
+      "title": "Sistem Monitoring Mahasiswa - Udinus",
+      "category": "Mobile",
+      "description": "Sistem Monitoring Mahasiswa untuk memantau dan melaporkan data akademik mahasiswa program studi. Sistem ini melacak kehadiran, nilai, dan pencapaian akademik mahasiswa.",
+      "tags": ["Java","Material UI","MySQL","REST API"],
+      "href": "",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnye6nWKDQGtUaYcohFAmxz1e3VEv2wb89ZOCX",
+      "accent": "sky",
+      "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan sistem mulai dari konsep hingga deployment, UI/UX Designer — Merancang Design UI untuk sistem ticketing dan landing page",
+      "impact": [
+        "Merancang sebuah sistem monitoring mahasiswa untuk memantau dan melaporkan data akademik mahasiswa program studi",
+        "Sistem ini melacak kehadiran, nilai, dan pencapaian akademik mahasiswa",
+        "Mempermudah dosen dalam memantau perkembangan mahasiswa secara real-time dan akurat"
+      ],
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnye6nWKDQGtUaYcohFAmxz1e3VEv2wb89ZOCX"]
     }
   ],
   "organizations": [
@@ -222,42 +252,56 @@
       "issuer": "MikroTik",
       "year": "2023",
       "accent": "paper",
-      "link": "https://www.mikrotik.com"
+      "link": "https://drive.google.com/file/d/1vkCR0yk26Pzfrxw02erokHSnd2Y0R7aA/view?usp=drive_link"
     },
     {
-      "title": "Management Skills Training Certificate",
-      "issuer": "Universitas Dian Nuswantoro",
+      "title": "Uji Kompetensi Keahlian Pemrograman WEB",
+      "issuer": "LSP UDINUS",
+      "year": "2024",
+      "accent": "sky",
+      "link": "https://drive.google.com/file/d/1T6HE9UU2wgk3dA6fWxCNeAs3RZaVrZt6/view"
+    },
+    {
+      "title": "Sertifikat Magang Nasional",
+      "issuer": "Kementrian Ketenagakerjaan RI",
+      "year": "2026",
+      "accent": "peach",
+      "link": "https://drive.google.com/file/d/19tBOSmObXRy4LIpr1fZLDnSPpF1jbyIA/view"
+    },
+    {
+      "title": "Junior Mobile Programmer",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
       "year": "2024",
       "accent": "mint",
-      "link": "https://dinus.ac.id"
+      "link": "https://drive.google.com/file/d/1_OvErK2gwMkGhbfecoe5rd5JbVY00DIr/view?usp=drive_link"
     },
     {
-      "title": "Junior Web Developer Certificate",
-      "issuer": "Code Xclusive",
-      "year": "2022",
-      "accent": "sky",
-      "link": "#"
-    },
-    {
-      "title": "Organizational Candidate Training Certificate",
-      "issuer": "Universitas Dian Nuswantoro",
-      "year": "2024",
+      "title": "TOEFL — (607)",
+      "issuer": "Brighten English",
+      "year": "2025",
       "accent": "sun",
-      "link": "https://dinus.ac.id"
+      "link": "https://drive.google.com/file/d/1w_ydP2yVupeLbrvR1Sci8hpzt1-zfQOv/view?usp=drive_link"
     },
     {
-      "title": "Junior Mobile Programmer Certificate",
-      "issuer": "Lembaga Sertifikasi Profesi UDINUS",
-      "year": "2024",
+      "title": "Belajar Dasar AI",
+      "issuer": "Dicoding Indonesia",
+      "year": "2026",
+      "accent": "coral",
+      "link": "https://drive.google.com/file/d/1e6v_9D4ZTPK3b7M8K7W2dny8xdihgAgy/view"
+    },
+    {
+      "title": "FullStack JavaScript Developer Dengan Express.js dan React.js",
+      "issuer": "Santri Koding",
+      "year": "2026",
       "accent": "paper",
-      "link": "https://lsp.dinus.ac.id"
+      "link": "https://santrikoding.com/cek-sertifikat?no=SK-2ZE58TRYGUNOECI"
     },
     {
-      "title": "TOEFL — Silver (467)",
-      "issuer": "Lembaga Bahasa UDINUS",
-      "year": "2023",
-      "accent": "sun",
-      "link": "https://dinus.ac.id"
+      "title": "Full-Stack Laravel 11 Next JS",
+      "issuer": "BuildWithAngga",
+      "year": "2025",
+      "accent": "peach",
+      "link": "https://drive.google.com/file/d/15yb5CAC96w8BpPBDsUumUAWBGpKEsAGh/view"
     }
   ],
   "cta": {
