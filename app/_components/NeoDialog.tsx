@@ -165,6 +165,7 @@ export function NeoDialog({ project }: { project: ProjectDetail }) {
               )}
 
               {/* Link */}
+              {project.href !== "#" && (
               <a
                 href={project.href}
                 target="_blank"
@@ -193,6 +194,7 @@ export function NeoDialog({ project }: { project: ProjectDetail }) {
                 </svg>
                 VIEW PROJECT
               </a>
+              )}
             </div>
           </div>
 

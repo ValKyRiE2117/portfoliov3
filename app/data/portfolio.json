@@ -13,10 +13,10 @@
   },
   "links": {
     "cv": "/cv.pdf",
-    "email": "mailto:hello@example.com",
-    "linkedin": "https://linkedin.com/in/your-handle",
-    "github": "https://github.com/your-handle",
-    "instagram": "https://instagram.com/your-handle"
+    "email": "aritzagk@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/aritza-ganendra-kusuma/",
+    "github": "https://github.com/ValKyRiE2117",
+    "instagram": "https://www.instagram.com/_ritzaa_/"
   },
   "about": {
     "education": "Teknik Informatika — UDINUS",
@@ -52,47 +52,70 @@
   },
   "experience": [
     {
-      "company": "Paperless Hospital",
-      "role": "Junior Frontend Developer",
-      "summary": "Built UI for hospital management modules and dashboards.",
-      "period": "2025-2026",
-      "accent": "sun"
-    },
-    {
       "company": "Freelance",
       "role": "Developer & Designer",
-      "summary": "Designed and developed websites for clients, from concept to deployment.",
-      "period": "2024–Current",
+      "summary": "",
+      "period": "2025–Current",
       "accent": "mint"
     },
     {
-      "company": "UDINUS",
+      "company": "Paperless Hospital",
+      "role": "Junior Frontend Developer",
+      "summary": "",
+      "period": "2025-2026",
+      "accent": "sun"
+    },
+    
+    {
+      "company": "UDINUS Semarang",
       "role": "Lab Assistant",
-      "summary": "Helped students with programming labs and practical assignments.",
+      "summary": "",
       "period": "2023–2024",
       "accent": "sky"
     },
     {
-      "company": "Tokcom",
+      "company": "Telkom Witel Semarang",
       "role": "Data Management Intern",
-      "summary": "Data processing and analysis support for internal reporting.",
+      "summary": "",
       "period": "2023",
       "accent": "peach"
     }
   ],
   "projects": [
     {
-      "title": "Website Profile Prodi D3 TI UDINUS",
+      "title": "Website SaaS AI - Paperless Hospital ",
+      "category": "Website",
+      "description": "Mengembangkan Platform SaaS AI untuk Paperless Hospital dengan fitur AI seperti AI Medical Scribe, AI BPJS Claim, dll.",
+      "tags": ["Laravel","React","REST API","MySQL","Webhook","Tailwind CSS","AWS"],
+      "href": "#",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnxyRJrvOLClMEgiWHT84R7KAzwDscyQnSZUdb",
+      "accent": "sun",
+      "role": "Fullstack Developer (First) - Merancang setup awal sistem mulai dari struktur, database, proses registrasi & sign up, konfigurasi penting, hingga manajemen user, role dan permission, Frontend Developer (Second) - Merancang dan Implementasi User Interface bagi service-service tambahan,",
+      "impact": [
+        "Mengembangkan platform SaaS untuk menggabungkan beberapa website & sistem yang sebelumnya terpisah menjadi terpusat didalam 1 platform",
+        "Merancang platform yang user friendly untuk diakses dan digunakan klien mulai dari onboarding hingga penggunaan sistem dan service"
+      ],
+      "images": [
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn9mf5AWqCp6m1R5MkuXWtKo8Nwyih0aS3ADI7",
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnFxGPRZATUDaPNFAIHvxm9BqEWKJ5z7wh8SQV",
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnAMx72l2oQPj9pAVg8sTioSdmHWGcX0nIFOyq",
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnxyRJrvOLClMEgiWHT84R7KAzwDscyQnSZUdb",
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnmIc6H6Y1VyIWPgFEOQtB2TzXnL8jNfaDvkcm",
+      "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn1OHoApPQ64eO7lAbFsHx20PjBvcp8XkCaSfg"]
+    },
+    {
+      "title": "Website Profile Prodi - D3 TI UDINUS",
       "category": "Website",
       "description": "Mengembangkan website profil program studi dengan desain modern dan responsive. Website ini menampilkan informasi lengkap tentang program studi, kurikulum, fasilitas, dan prestasi mahasiswa.",
       "tags": ["Laravel", "Tailwind CSS", "MySQL", "Filament"],
-      "href": "https://example.com",
+      "href": "#",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2",
       "accent": "mint",
       "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment.",
       "impact": [
         "Meningkatkan aksesibilitas informasi bagi calon mahasiswa",
-        "Memberikan branding prodi yang lebih jelas dan lengkap"
+        "Memberikan branding prodi yang lebih jelas dan lengkap",
+        "Meningkatkan popularitas dan optimasi search engine"
       ],
       "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2","https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2"]
     },
@@ -101,48 +124,66 @@
       "category": "Website",
       "description": "Sistem Terintegrasi perusahaan untuk mengelola dan pendataan (Klien, Produk, Keuangan, Revenue, Status Service, dll). Dashboard ini menyediakan real-time monitoring dan laporan komprehensif untuk manajemen.",
       "tags": ["React", "Laravel", "MySQL", "TailwindCSS", "REST API"],
-      "href": "https://example.com",
+      "href": "#",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn4VGoJwZxoBnFWEzJXs9MtKaRAh2kw7CfLx6u",
       "accent": "sky",
       "role": "Full-Stack Developer & Lead team project — Merancang dan mengembangkan keseluruhan sistem serta memimpin tim proyek untuk mencapai tujuan yang telah ditetapkan.",
       "impact": [
-        "Me",
-        "Real-time monitoring status service untuk 50+ klien",
-        "Mengurangi waktu reporting dari 2 jam menjadi 10 menit"
+        "Merancang sebuah sistem yang menggabungkan beberapa fitur seperti manajemen klien, produk, keuangan, revenue, status service, dll",
+        "Real-time monitoring status service dari SIM RS dan integrasi dengan Satu Sehat",
+        "Membuat "
       ],
       "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn4VGoJwZxoBnFWEzJXs9MtKaRAh2kw7CfLx6u"]
     },
     {
-      "title": "Student Monitoring System",
-      "category": "Mobile",
-      "description": "Monitoring and reporting app for academic progress. The system tracks student attendance, grades, and academic milestones with automated notifications to parents and faculty.",
-      "tags": ["Vue", "Tailwind CSS"],
-      "href": "https://example.com",
+      "title": "Sistem Monitoring Mahasiswa - Udinus",
+      "category": "Website",
+      "description": "Sistem Monitoring Mahasiswa untuk memantau dan melaporkan data akademik mahasiswa program studi. Sistem ini melacak kehadiran, nilai, dan pencapaian akademik mahasiswa.",
+      "tags": ["Laravel", "Tailwind CSS","MySQL","Livewire"],
+      "href": "#",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnLsiPSwGaSHkFRN7itYZlvhjuEDoXrUIWGbsd",
       "accent": "peach",
-      "role": "Frontend Developer — Built the mobile-first UI and data visualization components.",
+      "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan sistem mulai dari konsep hingga deployment.",
       "impact": [
-        "Streamlined academic progress tracking for 200+ students",
-        "Automated parent notification system",
-        "Real-time attendance and grade monitoring"
+        "Merancang sebuah sistem monitoring mahasiswa untuk memantau dan melaporkan data akademik mahasiswa program studi",
+        "Sistem ini melacak kehadiran, nilai, dan pencapaian akademik mahasiswa",
+        "Mempermudah dosen dalam memantau perkembangan mahasiswa secara real-time dan akurat"
       ],
       "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnLsiPSwGaSHkFRN7itYZlvhjuEDoXrUIWGbsd"]
     },
     {
       "title": "Sky Access Network",
-      "category": "UI/UX",
+      "category": "Website",
       "description": "Landing page and branding exploration for an internet service provider. Complete design system including logo, color palette, typography, and responsive web layouts.",
-      "tags": ["Figma", "UI/UX"],
-      "href": "https://example.com",
-      "image": "/images/project_sky_access.png",
+      "tags": ["Laravel", "Livewire","Tailwind CSS","MySQL"],
+      "href": "https://skyaccessnetwork.com",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnmFm6MdY1VyIWPgFEOQtB2TzXnL8jNfaDvkcm",
       "accent": "sun",
-      "role": "UI/UX Designer — Created the full brand identity and landing page design from scratch.",
+      "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment, UI/UX Designer — Merancang Design UI untuk sistem ticketing dan landing page",
       "impact": [
-        "Delivered complete brand identity system",
-        "Designed responsive landing page with 95+ Lighthouse score",
-        "Created reusable component library in Figma"
+        "Meningkatkan brand identity dengan landing page.",
+        "Membantu meningkatkan visibilitas perusahaan pada search engine."
       ],
-      "images": ["/images/project_sky_access.png"]
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnmFm6MdY1VyIWPgFEOQtB2TzXnL8jNfaDvkcm"]
+    },
+    {
+      "title": "Landing Page - CV Busana Nyaman Pakai",
+      "category": "Website",
+      "description": "Mengembangkan Website Landing Page untuk UMKM Konveksi yang ada di semarang untuk meningkatkan visibilitas dan penjualan",
+      "tags": ["Laravel","Livewire","Filament","Tailwind CSS"],
+      "href": "https://konveksibusananyamanpakai.com",
+      "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnFWiyQaATUDaPNFAIHvxm9BqEWKJ5z7wh8SQV",
+      "accent": "mint",
+      "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment, UI/UX Designer — Merancang Design UI untuk sistem ticketing dan landing page",
+      "impact": [
+        "Meningkatkan visibilitas brand CV Busana Nyaman Pakai pada search engine",
+        "Mempermudah pelanggan dalam mendapatkan informasi produk dan layanan"
+      ],
+      "images": [
+        "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnFWiyQaATUDaPNFAIHvxm9BqEWKJ5z7wh8SQV",
+        "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnM1I206tm8cWFMRovOzSdUDlisa2Q43PBxgnq",
+        "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn1t2vf3PQ64eO7lAbFsHx20PjBvcp8XkCaSfg"
+      ]
     }
   ],
   "organizations": [
@@ -180,37 +221,43 @@
       "title": "MTCNA (MikroTik Certified Network Associate)",
       "issuer": "MikroTik",
       "year": "2023",
-      "accent": "paper"
+      "accent": "paper",
+      "link": "https://www.mikrotik.com"
     },
     {
       "title": "Management Skills Training Certificate",
       "issuer": "Universitas Dian Nuswantoro",
       "year": "2024",
-      "accent": "mint"
+      "accent": "mint",
+      "link": "https://dinus.ac.id"
     },
     {
       "title": "Junior Web Developer Certificate",
       "issuer": "Code Xclusive",
       "year": "2022",
-      "accent": "sky"
+      "accent": "sky",
+      "link": "#"
     },
     {
       "title": "Organizational Candidate Training Certificate",
       "issuer": "Universitas Dian Nuswantoro",
       "year": "2024",
-      "accent": "sun"
+      "accent": "sun",
+      "link": "https://dinus.ac.id"
     },
     {
       "title": "Junior Mobile Programmer Certificate",
       "issuer": "Lembaga Sertifikasi Profesi UDINUS",
       "year": "2024",
-      "accent": "paper"
+      "accent": "paper",
+      "link": "https://lsp.dinus.ac.id"
     },
     {
       "title": "TOEFL — Silver (467)",
       "issuer": "Lembaga Bahasa UDINUS",
       "year": "2023",
-      "accent": "sun"
+      "accent": "sun",
+      "link": "https://dinus.ac.id"
     }
   ],
   "cta": {

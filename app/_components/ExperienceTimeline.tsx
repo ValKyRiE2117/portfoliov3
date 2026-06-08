@@ -47,16 +47,14 @@ export function ExperienceTimeline({ items }: { items: ExperienceItem[] }) {
                   {x.period}
                 </Badge>
               </div>
-              <p className="mt-3 text-sm leading-6 text-black/75">
-                {x.summary}
-              </p>
+              
             </NeoCard>
           );
 
           return (
             <li key={`${x.company}-${x.role}`} className="relative">
               {/* Mobile (stacked) */}
-              <div className="absolute left-6 top-9 -translate-x-1/2 lg:hidden">
+              <div className="absolute left-6 top-2 -translate-x-1/2 lg:hidden">
                 <div
                   className={cx(
                     "neo-border neo-shadow flex h-12 w-12 items-center justify-center",
@@ -84,7 +82,7 @@ export function ExperienceTimeline({ items }: { items: ExperienceItem[] }) {
                 </div>
 
                 <div className="relative flex items-start justify-center">
-                  <div className="absolute left-1/2 top-8 -translate-x-1/2">
+                  <div className="absolute left-1/2 top-4 -translate-x-1/2">
                     <div
                       className={cx(
                         "neo-border neo-shadow flex h-14 w-14 items-center justify-center",
