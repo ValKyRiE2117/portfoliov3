@@ -291,15 +291,32 @@ export default function Home() {
 
             <div className="mt-8 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
               {portfolio.certificates.map((c) => (
-                <NeoCard key={`${c.title}-${c.year}`} accent={c.accent}>
-                  <p className="text-xs font-mono font-black uppercase tracking-widest opacity-70">
-                    {c.year}
-                  </p>
-                  <p className="mt-2 text-base font-black leading-snug">{c.title}</p>
-                  <p className="mt-2 text-sm text-black/70">
-                    {c.issuer}
-                  </p>
-                </NeoCard>
+                <a
+                  key={`${c.title}-${c.year}`}
+                  href={c.link || "#"}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group block transition-all duration-200 hover:-translate-y-1 hover:translate-x-0.5"
+                >
+                  <NeoCard accent={c.accent} className="h-full flex flex-col justify-between">
+                    <div>
+                      <div className="flex items-start justify-between">
+                        <p className="text-xs font-mono font-black uppercase tracking-widest opacity-70">
+                          {c.year}
+                        </p>
+                        <div className="neo-border bg-[var(--neo-paper)] p-1 transition-all group-hover:bg-[var(--neo-sun)] text-black" style={{ boxShadow: '2px 2px 0 0 #000' }}>
+                          <svg className="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25" />
+                          </svg>
+                        </div>
+                      </div>
+                      <p className="mt-2 text-base font-black leading-snug text-black group-hover:text-black/80">{c.title}</p>
+                    </div>
+                    <p className="mt-4 text-sm text-black/70 font-bold">
+                      {c.issuer}
+                    </p>
+                  </NeoCard>
+                </a>
               ))}
             </div>
           </Container>
@@ -322,7 +339,7 @@ export default function Home() {
 
             <div className="mt-7 flex flex-wrap gap-3">
               <NeoButton
-                href={portfolio.links.email}
+                href={`mailto:${portfolio.links.email}`}
                 className="bg-[var(--neo-sun)] text-black hover:bg-[var(--neo-sun)]/90"
               >
                 <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
