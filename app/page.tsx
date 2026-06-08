@@ -139,7 +139,7 @@ export default function Home() {
                 </p>
 
                 <p className="mt-4 max-w-2xl text-base leading-7 text-black/80">
-                  {portfolio.person.headline} {portfolio.person.bio}
+                  {portfolio.person.bio}
                 </p>
 
                 <div className="mt-7 flex flex-wrap justify-center md:justify-start items-center gap-3">
@@ -333,7 +333,7 @@ export default function Home() {
               06 — Let’s talk
             </p>
             <h2 className="mt-4 max-w-2xl text-3xl font-black leading-tight sm:text-4xl">
-              Got a project? <span className="text-[var(--neo-sun)]">Let’s build</span> something together.
+              Punya ide atau proyek? <span className="text-[var(--neo-sun)]">Mari wujudkan</span> sesuatu yang luar biasa bersama.
             </h2>
             <p className="mt-4 max-w-2xl text-sm leading-6 text-white/70">
               {portfolio.cta.subtitle}
