@@ -54,7 +54,7 @@ export function ExperienceTimeline({ items }: { items: ExperienceItem[] }) {
           return (
             <li key={`${x.company}-${x.role}`} className="relative">
               {/* Mobile (stacked) */}
-              <div className="absolute left-6 top-2 -translate-x-1/2 lg:hidden">
+              <div className="absolute left-6 top-4 -translate-x-1/2 lg:hidden">
                 <div
                   className={cx(
                     "neo-border neo-shadow flex h-12 w-12 items-center justify-center",

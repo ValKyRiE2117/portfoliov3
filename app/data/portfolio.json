@@ -6,13 +6,12 @@
   "person": {
     "name": "Aritza Ganendra Kusuma",
     "role": "Web Developer & UI/UX Designer",
-    "headline": "Building modern web experiences with bold, practical design.",
-    "bio": "I build fast, accessible interfaces and reliable backends. I enjoy shipping end-to-end features: UI, APIs, and the little details that make products feel great.",
+    "bio": "Saya membantu mengubah ide menjadi produk digital yang nyata. Dengan perpaduan pengembangan web dan desain UI/UX, saya membangun solusi yang tidak hanya terlihat menarik, tetapi juga memberikan pengalaman pengguna yang optimal.",
     "location": "Semarang, Indonesia",
     "availableForWork": true
   },
   "links": {
-    "cv": "/cv.pdf",
+    "cv": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZncvxhk2amPzI3pWeZVURxYv9Ks5jkqTNgGQli",
     "email": "aritzagk@gmail.com",
     "linkedin": "https://www.linkedin.com/in/aritza-ganendra-kusuma/",
     "github": "https://github.com/ValKyRiE2117",
@@ -309,7 +308,7 @@
     }
   ],
   "cta": {
-    "title": "Got a project? Let's build something together.",
-    "subtitle": "Open to freelance, collaborations, or full-time roles. Let's talk about what you're building and how I can help."
+    "title": "Punya ide atau proyek? Mari wujudkan sesuatu yang luar biasa bersama.",
+    "subtitle": "Terbuka untuk proyek freelance, kolaborasi, maupun peluang kerja penuh waktu. Ceritakan ide, tantangan, atau visi yang sedang Anda bangun—saya siap membantu mewujudkannya menjadi solusi yang efektif dan berkesan."
   }
 }
