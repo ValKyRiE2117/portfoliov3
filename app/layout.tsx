@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Aritza Ganendra Kusuma — Portfolio",
-  // description: "Neo-brutal portfolio built with Next.js and Tailwind.",
+
 };
 
 export default function RootLayout({

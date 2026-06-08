@@ -15,18 +15,20 @@ function getSkillBadgeClass(skill: string) {
   if (s.includes("javascript") || s.includes("js")) {
     if (s.includes("node")) return "bg-[var(--neo-mint)] text-black";
     if (s.includes("next")) return "bg-[var(--neo-sky)] text-black";
+    if (s.includes("nuxt")) return "bg-[var(--neo-mint)] text-black";
     if (s.includes("inertia")) return "bg-[var(--neo-sky)] text-black";
+    if (s.includes("vue")) return "bg-[var(--neo-mint)] text-black";
     return "bg-[var(--neo-sun)] text-black";
   }
   if (s.includes("react")) return "bg-[var(--neo-sky)] text-black";
-  if (s.includes("vue")) return "bg-[var(--neo-mint)] text-black";
+  
   if (s.includes("php")) return "bg-[var(--neo-peach)] text-black";
-  if (s.includes("laravel")) return "bg-[var(--neo-coral)] text-black";
-  if (s.includes("express")) return "bg-[var(--neo-peach)] text-black";
+  if (s.includes("laravel") || s.includes("codeigniter")) return "bg-[var(--neo-coral)] text-black";
+  if (s.includes("express")) return "bg-[var(--neo-night)] text-white";
   if (s.includes("mysql") || s.includes("postgres")) return "bg-[var(--neo-paper)] text-black";
-  if (s.includes("tailwind")) return "bg-[var(--neo-night)] text-white";
+  if (s.includes("tailwind")) return "bg-[var(--neo-sky)] text-black";
   if (s.includes("bootstrap")) return "bg-[var(--neo-peach)] text-black";
-  if (s.includes("supabase")) return "bg-[var(--neo-sun)] text-black";
+  if (s.includes("supabase")) return "bg-[var(--neo-mint)] text-black";
   if (s.includes("git")) return "bg-[var(--neo-sun)] text-black";
   if (s.includes("figma")) return "bg-[var(--neo-coral)] text-black";
   return "bg-[var(--neo-paper)] text-black";

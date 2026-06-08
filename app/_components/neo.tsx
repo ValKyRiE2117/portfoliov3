@@ -43,7 +43,7 @@ export function SectionHeader({
   id?: string;
 }) {
   return (
-    <div className="flex items-end gap-4">
+    <div className="flex gap-4 items-end">
       <div className="flex min-w-0 flex-col gap-1">
         <p className="text-xs font-mono uppercase tracking-widest text-black/70">
           {kicker}
