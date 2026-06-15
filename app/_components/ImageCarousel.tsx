@@ -31,6 +31,7 @@ export function ImageCarousel({ images, alt = "Project image", className }: Imag
   /* Touch / swipe support */
   function handleTouchStart(e: React.TouchEvent) {
     touchStartX.current = e.touches[0].clientX;
+    touchEndX.current = e.touches[0].clientX;
   }
 
   function handleTouchMove(e: React.TouchEvent) {
@@ -102,6 +103,7 @@ export function ImageCarousel({ images, alt = "Project image", className }: Imag
           <button
             type="button"
             onClick={prev}
+            onTouchStart={(e) => e.stopPropagation()}
             className={cx(
               "absolute left-2 top-1/2 -translate-y-1/2",
               "neo-border neo-press flex h-9 w-9 items-center justify-center",
@@ -129,6 +131,7 @@ export function ImageCarousel({ images, alt = "Project image", className }: Imag
           <button
             type="button"
             onClick={next}
+            onTouchStart={(e) => e.stopPropagation()}
             className={cx(
               "absolute right-2 top-1/2 -translate-y-1/2",
               "neo-border neo-press flex h-9 w-9 items-center justify-center",
