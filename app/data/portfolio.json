@@ -111,7 +111,7 @@
       "category": "Website",
       "description": "Mengembangkan website profil program studi dengan desain modern dan responsive. Website ini menampilkan informasi lengkap tentang program studi, kurikulum, fasilitas, dan prestasi mahasiswa.",
       "tags": ["Laravel", "Tailwind CSS", "MySQL", "Filament"],
-      "href": "#",
+      "href": "https://dti.dinus.ac.id/",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2",
       "accent": "mint",
       "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan website dari konsep hingga deployment.",
@@ -120,14 +120,14 @@
         "Memberikan branding prodi yang lebih jelas dan lengkap",
         "Meningkatkan popularitas dan optimasi search engine"
       ],
-      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2","https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2"]
+      "images": ["https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnhO7ytyp1tME4avuZpnF9e6Rbdw8zfyHjKBq2"]
     },
     {
       "title": "Dashboard Internal - Paperless Hospital",
       "category": "Website",
       "description": "Sistem Terintegrasi perusahaan untuk mengelola dan pendataan (Klien, Produk, Keuangan, Revenue, Status Service, dll). Dashboard ini menyediakan real-time monitoring dan laporan komprehensif untuk manajemen.",
       "tags": ["React", "Laravel", "MySQL", "TailwindCSS", "REST API"],
-      "href": "#",
+      "href": "https://dashboard.paperlesshospital.id/",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZn4VGoJwZxoBnFWEzJXs9MtKaRAh2kw7CfLx6u",
       "accent": "sky",
       "role": "Full-Stack Developer & Lead team project — Merancang dan mengembangkan keseluruhan sistem serta memimpin tim proyek untuk mencapai tujuan yang telah ditetapkan.",
@@ -143,7 +143,7 @@
       "category": "Website",
       "description": "Sistem Monitoring Mahasiswa untuk memantau dan melaporkan data akademik mahasiswa program studi. Sistem ini melacak kehadiran, nilai, dan pencapaian akademik mahasiswa.",
       "tags": ["Laravel", "Tailwind CSS","MySQL","Livewire"],
-      "href": "#",
+      "href": "https://dti.dinus.ac.id/sistem-monitoring-mahasiswa/login",
       "image": "https://5r2035c7cu.ufs.sh/f/iFw9I2dIRHZnLsiPSwGaSHkFRN7itYZlvhjuEDoXrUIWGbsd",
       "accent": "peach",
       "role": "Full-Stack Developer — Merancang dan mengembangkan keseluruhan sistem mulai dari konsep hingga deployment.",
